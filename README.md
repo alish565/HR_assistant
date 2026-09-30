@@ -1,5 +1,3 @@
----
-
 ### 📄Interactive HR Assistant Agent
 
 ```markdown
