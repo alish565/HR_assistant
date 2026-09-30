@@ -1,6 +1,3 @@
-### 📄Interactive HR Assistant Agent
-
-```markdown
 # 💬 AI-Powered HR Assistant Agent
 
 An interactive HR Assistant chatbot built with **LangChain**, **OpenAI GPT-4 Turbo**, and **Gradio**. The agent uses custom tool calling to query employee records, check leave balances, and search Wikipedia to assist with recruitment and interview preparation.
